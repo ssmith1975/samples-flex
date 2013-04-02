@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<album>
+	<slide>
+		<source>alcatraz.jpg</source>
+		<caption>Alcatraz Island</caption>
+	</slide>
+	<slide>
+		<source>bigben.jpg</source>
+		<caption>Big Ben</caption>
+	</slide>
+	<slide>
+		<source>bourbonstreet.jpg</source>
+		<caption>Buckingham Palace</caption>
+	</slide>
+	<slide>
+		<source>cablecars.jpg</source>
+		<caption>Cable Cars</caption>
+	</slide>
+	<slide>
+		<source>cathedralpeak.jpg</source>
+		<caption>Cathedral Peak</caption>
+	</slide>	
+</album>

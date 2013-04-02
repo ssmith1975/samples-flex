@@ -1,0 +1,30 @@
+/* CSS file */
+
+Label
+{
+	fontFamily: "Segoe Script";
+	fontStyle: italic;
+	fontWeight: bold;
+}
+
+.hesder {
+	fontSize: 18;
+}
+
+.subHeader
+{
+	fontSize: 12;
+}
+
+.windowStyles {
+	fontFamily: "Segoe Script";
+	fontStyle: italic;
+	fontWeight: bold;	
+}
+@font-face
+{
+	fontFamily: "Segoe Script";
+	fontWeight: bold;
+	fontStyle: italic;
+	src: local("Segoe Script");
+}
